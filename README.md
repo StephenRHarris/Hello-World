@@ -1,4 +1,8 @@
 # Hello-World
 
-My favorite programming language is C/C++.
+My favorite programming languages are:
+
+- C/C++
+- Python
+- Lua
 
