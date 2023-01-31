@@ -1,8 +1,8 @@
 # Hello-World
 
-My favorite programming languages are:
+Currently relearning:
 
 - C/C++
 - Python
-- Lua
+- Bash
 
