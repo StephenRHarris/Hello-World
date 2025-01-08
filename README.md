@@ -2,10 +2,12 @@
 
 Currently relearning:
 
-- Javascript FullStack
+- undecided 
 
 Future Plans:
-- C/C++
-- Python
-- Bash
 
+- Linux CLI
+- C
+- Python
+- Java (including JSP)
+- JavaScript (FullStack)
